@@ -132,10 +132,10 @@ body {
     justify-content: center;
     align-items: center;
     position: absolute;
-    right: 10%;
+    right: 5%;
     bottom: 10%;
-    width: 450px;
-    height: 179px;
+    width: 250px;
+    height: 200px;
     box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.08);
     border: solid 1px #e4e4e4;
     background-color: #ffffff;
@@ -213,7 +213,7 @@ body {
     position: absolute;
     bottom: 10%;
     right: 5%;
-    width: 184px;
+    width: 200px;
     height: 42px;
     border-radius: 4px;
     background-color: #f05136;
